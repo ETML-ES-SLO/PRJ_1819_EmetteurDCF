@@ -1,0 +1,5 @@
+Auteur : Rodrigo Martins Silveira
+
+La conception du PCB est fini est à été vérifiée sur Eurocircuit.
+
+La prochainne étape est de commander le PCB.
